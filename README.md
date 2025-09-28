@@ -1,3 +1,9 @@
+---
+title: AI4REASON Institute
+description: Advancing world-class research in AI, Automated Reasoning, and Machine Learning.
+theme: minima
+---
+
 # AI4REASON Institute
 
 **AI4REASON z.ú.** is a nonprofit research institute based in Prague, Czech Republic.  
@@ -29,5 +35,9 @@ We operate transparently and reinvest all resources into our mission.
 
 ## Contact
 📍 **Prague, Czech Republic**  
-🌐 [https://ai4reason.eu]  
+🌐 [ai4reason.eu](https://ai4reason.eu)
 ✉️ ai4reason@gmail.com
+
+---
+
+© AI4REASON Institute 2025
