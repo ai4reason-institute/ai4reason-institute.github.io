@@ -31,6 +31,11 @@ We operate transparently and reinvest all resources into our mission.
 
 ---
 
+## [Team→](people.md)
+
+---
+
+
 ## Contact
 📍 **Prague, Czech Republic**  
 🌐 [ai4reason.eu](https://ai4reason.eu)
