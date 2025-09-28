@@ -27,7 +27,7 @@ It conducts **independent, world-class research in Artificial Intelligence, Auto
 ---
 
 ## Governance
-The Institute is managed by an **Board of Trustees** and a **Director**, supported by an Assembly of Founders.  
+The Institute is managed by a **Board of Trustees** and a **Director**, supported by an Assembly of Founders.  
 We operate transparently and reinvest all resources into our mission.
 
 ---
