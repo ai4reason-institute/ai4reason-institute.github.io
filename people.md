@@ -9,12 +9,12 @@ theme: minima
 ## Founders
 - [**Robert Louis Veroff, Ph.D.**](https://www.cs.unm.edu/~veroff/) — Professor Emeritus, University of New Mexico, USA  
 - [**Stephan Schulz, Prof. Dr.**](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) — Professor, DHBW Stuttgart, Germany  
-- [**Cezary Seweryn Kaliszyk, Ph.D.**](https://ckaliszyk.github.io/) — Professor, University of Melbourne, Australia  
+- [**Cezary Kaliszyk, Ph.D.**](https://ckaliszyk.github.io/) — Professor, University of Melbourne, Australia  
 - [**Josef Urban, Ph.D.**](https://josefurban.eu/) — Distinguished Researcher, Czech Technical University in Prague, Czech Republic  
 
 ## Board of Trustees (Executive Board)
 - [**Robert Louis Veroff, Ph.D.**](https://www.cs.unm.edu/~veroff/) — Professor Emeritus, University of New Mexico, USA (Chair)  
-- [**Cezary Seweryn Kaliszyk, Ph.D.**](https://ckaliszyk.github.io/) — Professor, University of Melbourne, Australia  
+- [**Cezary Kaliszyk, Ph.D.**](https://ckaliszyk.github.io/) — Professor, University of Melbourne, Australia  
 - [**Stephan Schulz, Prof. Dr.**](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) — Professor, DHBW Stuttgart, Germany  
 
 ## Director
