@@ -23,3 +23,5 @@ theme: minima
 ---
 
 © AI4REASON Institute 2025
+
+Business ID (IČ): 23753161
