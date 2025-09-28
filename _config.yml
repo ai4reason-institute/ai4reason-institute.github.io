@@ -1,0 +1,6 @@
+title: AI4REASON Institute
+description: Advancing world-class research in AI, Automated Reasoning, and Machine Learning.
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  
