@@ -39,10 +39,13 @@ We operate transparently and reinvest all resources into our mission.
 
 ## Contact
 📍 **Prague, Czech Republic**  
+
 🌐 [ai4reason.eu](https://ai4reason.eu)
+
 ✉️ ai4reason@gmail.com
 
 ---
 
 © AI4REASON Institute 2025
+
 Business ID (IČ): 23753161
