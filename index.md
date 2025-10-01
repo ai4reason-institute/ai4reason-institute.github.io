@@ -40,6 +40,11 @@ We operate transparently and reinvest all resources into our mission.
 ## Contact
 📍 **Prague, Czech Republic**  
 
+📬 **Mailing Address:**  
+AI4REASON z.ú.<br>
+Uralská 7, 160 00 Praha 6<br>
+Czech Republic 
+
 🌐 [ai4reason.eu](https://ai4reason.eu)
 
 ✉️ ai4reason@gmail.com
