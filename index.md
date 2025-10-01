@@ -59,3 +59,6 @@ Bank name and address: Wise, Rue du Trône 100, 3rd floor, Brussels, 1050, Belgi
 © AI4REASON Institute 2025
 
 Business ID (IČ): 23753161
+
+📄 [Gender Equality Plan (2025–2028)](https://ai4reason.eu/gender-equality-plan.pdf)
+
