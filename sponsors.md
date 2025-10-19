@@ -23,8 +23,8 @@ We gratefully acknowledge their contributions to the Institute’s mission.
 
 ## Organizational Sponsor
 
-- **EUReason s.r.o.** — A technology company developing **distributed, decentralized, and collaborative tools for formal mathematics**.  
-  EUReason works at the intersection of artificial intelligence and formal reasoning, building infrastructure to support open, verifiable, and cooperative scientific development.
+- **EUReason s.r.o.** — A technology company based in Prague developing **distributed, decentralized, and collaborative tools for formal mathematics**.  
+  
 
 ---
 
