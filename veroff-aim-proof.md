@@ -11,7 +11,7 @@ theme: minima
 Prover9 has produced a **complete proof that the commutative AIM theory (AIM + x * y = y * x) is nilpotent of class 3**.
 
 While the result is not new mathematically — given the previously established proof of nilpotency class 3 for AIM by **Michael Kinyon** and **Petr Vojtěchovský** — it represents a **significant achievement in automated reasoning**.  
-This proof is among the most complex ever produced by Prover9, demonstrating the power of large-scale iterative reasoning guided by hint-based methods.
+This result is among the most complex ever produced by Prover9, demonstrating the power of large-scale iterative reasoning guided by hint-based methods.
 
 ---
 
