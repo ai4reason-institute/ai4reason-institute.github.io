@@ -27,8 +27,8 @@ Further updates about ongoing projects and collaborations will appear here.
 
 ---
 
-## September 2024 — Institute Registered and Launched  
-The **AI4REASON Institute (AI4REASON z.ú.)** was officially registered in Prague, Czech Republic,  
+## September 24, 2025 — Institute Registered and Launched  
+The **AI4REASON Institute (AI4REASON z.ú.)** was todi officially registered in Prague, Czech Republic,  
 as a nonprofit research organization dedicated to advancing artificial intelligence, automated reasoning, and machine learning.  
 The Institute was founded by leading researchers in these fields to foster open, world-class scientific progress.
 
