@@ -7,7 +7,7 @@ theme: minima
 # Breakthrough Prover9 Proof by Bob Veroff
 
 **October 7 2025 — Albuquerque, NM**  
-**AI4REASON co-founder Bob Veroff** has announced a major milestone in automated reasoning:  
+**[AI4REASON co-founder Bob Veroff](https://www.cs.unm.edu/~veroff/)** has announced a major milestone in automated reasoning:  
 Prover9 has produced a **complete proof that the commutative AIM theory (AIM + x * y = y * x) is nilpotent of class 3**.
 
 While the result is not new mathematically — given the previously established proof of nilpotency class 3 for AIM by **Michael Kinyon** and **Petr Vojtěchovský** — it represents a **significant achievement in automated reasoning**.  
