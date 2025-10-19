@@ -1,6 +1,11 @@
 title: AI4REASON Institute
 description: Advancing world-class research in AI, Automated Reasoning, and Machine Learning.
 theme: minima
+header_pages:
+  - index.md
+  - people.md
+  - sponsors.md
+  - news.md
 plugins:
   - jekyll-seo-tag
   
