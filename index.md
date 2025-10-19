@@ -54,6 +54,15 @@ IBAN: BE97 9056 7872 2949<br>
 Swift/BIC: TRWIBEB1XXX<br>
 Bank name and address: Wise, Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium
 
+USD account:
+Account Name: AI4REASON z.ú.<br>
+Account number: 212713459366<br>
+Account type: Checking<br>
+Routing number (for wire and ACH): 101019628<br>
+Swift/BIC: TRWIUS35XXX<br>
+Bank name and address: Wise US Inc, 108 W 13th St, Wilmington, DE, 19801, United States
+---
+
 ---
 
 © AI4REASON Institute 2025
