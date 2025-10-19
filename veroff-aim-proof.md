@@ -2,7 +2,6 @@
 title: Breakthrough Prover9 Proof by Bob Veroff
 description: Commutative AIM proven nilpotent of class 3 with advanced Prover9 methods
 theme: minima
-published: false
 ---
 
 # Breakthrough Prover9 Proof by Bob Veroff
