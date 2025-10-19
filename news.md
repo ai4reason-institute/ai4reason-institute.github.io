@@ -20,8 +20,8 @@ Learn more about our [Sponsors →](sponsors.md)
 
 ---
 
-## October 7 2025 — Breakthrough Prover9 Proof by Bob Veroff  
-**[AI4REASON co-founder Bob Veroff](https://www.cs.unm.edu/~veroff/)** has achieved a significant milestone in automated reasoning:  
+## October 7 2025 — Significant Prover9 Result
+**[AI4REASON co-founder Bob Veroff](https://www.cs.unm.edu/~veroff/)** has announced an important result  in automated reasoning:  
 a complete **Prover9 proof that commutative AIM (AIM + x * y = y * x) is nilpotent of class 3**.  
 This represents one of the most complex automated reasoning proofs ever completed with Prover9.  
 
