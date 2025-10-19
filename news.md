@@ -20,14 +20,14 @@ Learn more about our [Sponsors →](sponsors.md)
 
 ---
 
-## October 2025 — Website Launch  
+## September 29 2025 — Website Launch  
 The official website of the **AI4REASON Institute** is now live at [ai4reason.eu](https://ai4reason.eu).  
 It provides an overview of our mission, team, sponsors, and research activities.  
 Further updates about ongoing projects and collaborations will appear here.
 
 ---
 
-## September 24, 2025 — Institute Registered and Launched  
+## September 24 2025 — Institute Registered and Launched  
 The **AI4REASON Institute (AI4REASON z.ú.)** was today officially registered in Prague, Czech Republic,  
 as a nonprofit research organization dedicated to advancing artificial intelligence, automated reasoning, and machine learning.  
 The Institute was founded by leading researchers in these fields to foster open, world-class scientific progress.
