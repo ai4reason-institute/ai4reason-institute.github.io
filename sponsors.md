@@ -30,4 +30,4 @@ We gratefully acknowledge their contributions to the Institute’s mission.
 
 © AI4REASON Institute 2025  
 
-Business ID (IČ): 12345678
+Business ID (IČ): 23753161
