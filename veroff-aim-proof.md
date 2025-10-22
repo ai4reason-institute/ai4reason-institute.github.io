@@ -63,7 +63,7 @@ Such techniques highlight how reasoning engines like **Prover9** can continue to
 ---
 
 Further information and background materials are available on  
-[Bob Veroff’s AIM Redone page](https://www.cs.unm.edu/~veroff/AIM_REDONE/).
+[The AIM project page ](https://www.cs.unm.edu/~veroff/AIM_REDONE/).
 
 ---
 
