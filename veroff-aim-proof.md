@@ -18,7 +18,7 @@ This result is among the most complex ever produced by Prover9, demonstrating th
 ## Overview
 
 - **Proof duration:** 40 days  
-- **Proof found:** *September 16 2025*  
+- **Proof found:** *September 16, 2025*  
 - **Total proof length:** 30 835 clauses (14 626 new hints)  
 - **Level:** 314  
 - **Maximum clause weight:** 1033 (78 w/o degradation)  
