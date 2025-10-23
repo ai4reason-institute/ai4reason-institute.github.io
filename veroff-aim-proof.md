@@ -23,14 +23,14 @@ which suffices to prove nilpotency class 3 because of previous Prover9 results.
 The result was proved by multiple coordinated Prover9 runs.
 
  - **Proof duration:** 40 days
- - **Proof found:** *September 16 2025*
+ - **Proof found:** *September 16, 2025*
 
 The proof was then extracted from the multiple output files for posting.
 
-- **Total proof length:** 30 835 clauses (14 626 new hints)
+- **Total proof length:** 30,835 clauses
 - **Level:** 314
-- **Maximum clause weight:** 1033 (78 w/o degradation)
-- **Given clauses in proof:** 8 940
+- **Maximum clause weight:** 78
+- **Given clauses in proof:** 8,940
 
 ## The Method
 
@@ -50,10 +50,7 @@ of clause derivation dependencies between the files.
 The proof posted on the <a href="www.cs.unm.edu/~veroff/AIM_REDONE">AIM
 project page<a> is the result of extracting a single proof from the
 Bigloop files and eliminating several lemmas that we typically use
-when searching for new results. The Bigloop result ran for 40 days and
-was found on Sep 16, 2025. The posted proof length is 30,835 and was
-found at level 314 of the search after 8940 given clause selections.
-The maximum weight of a clause in the proof is 78.
+when searching for new results.
 
 ---
 
