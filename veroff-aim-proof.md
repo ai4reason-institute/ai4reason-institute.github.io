@@ -30,7 +30,9 @@ The proof was then extracted from the multiple output files for posting.
 - **Total proof length:** 30 835 clauses (14 626 new hints)
 - **Level:** 314
 - **Maximum clause weight:** 1033 (78 w/o degradation)
-- **Given clauses in proof:** 8 940 
+- **Given clauses in proof:** 8 940
+
+## The Method
 
 This discovery was achieved using the Bigloop method. A Bigloop
 run consists of a number of P9loop runs running simultaneously, typically
