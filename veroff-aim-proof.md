@@ -17,10 +17,7 @@ This result is among the most complex ever produced by Prover9, demonstrating th
 
 ## Overview
 
-The latest result is a proof that AIM + Commutativity implies property **nil3 24**, represented with clause
-
-   a(a(a(x,y,z),u,w),v5,v6) = 1,
-    
+The latest result is a proof that AIM + Commutativity implies clause **nil3 24** (a(a(a(x,y,z),u,w),v5,v6) = 1),  
 which suffices to prove nilpotency class 3 because of previous Prover9
 results. This discovery was achieved using the Bigloop method. A Bigloop
 run consists of a number of P9loop runs running simultaneously, typically
