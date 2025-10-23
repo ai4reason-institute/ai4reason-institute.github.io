@@ -13,13 +13,26 @@ Prover9 has produced a **complete proof that the commutative AIM theory (AIM + x
 While the result is not new mathematically — given the previously established proof of nilpotency class 3 for AIM by **Michael Kinyon** and **Petr Vojtěchovský** — it represents a **significant achievement in automated reasoning**.  
 This result is among the most complex ever produced by Prover9, demonstrating the power of large-scale iterative reasoning guided by hint-based methods.
 
----
+---- 
 
 ## Overview
 
 The latest result is a proof that AIM + Commutativity implies clause **nil3 24 (a(a(a(x,y,z),u,w),v5,v6) = 1)**,
-which suffices to prove nilpotency class 3 because of previous Prover9
-results. This discovery was achieved using the Bigloop method. A Bigloop
+which suffices to prove nilpotency class 3 because of previous Prover9 results. 
+
+The result was proved by multiple coordinated Prover9 runs.
+
+ - **Proof duration:** 40 days
+ - **Proof found:** *September 16 2025*
+
+The proof was then extracted from the multiple output files for posting.
+
+- **Total proof length:** 30 835 clauses (14 626 new hints)
+- **Level:** 314
+- **Maximum clause weight:** 1033 (78 w/o degradation)
+- **Given clauses in proof:** 8 940 
+
+This discovery was achieved using the Bigloop method. A Bigloop
 run consists of a number of P9loop runs running simultaneously, typically
 with different Prover9 search settings. Each P9loop run consists of
 a sequence of Prover9 runs, typically using different term orderings.
