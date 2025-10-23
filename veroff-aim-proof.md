@@ -13,13 +13,28 @@ Prover9 has produced a **complete proof that the commutative AIM theory (AIM + x
 While the result is not new mathematically — given the previously established proof of nilpotency class 3 for AIM by **Michael Kinyon** and **Petr Vojtěchovský** — it represents a **significant achievement in automated reasoning**.  
 This result is among the most complex ever produced by Prover9, demonstrating the power of large-scale iterative reasoning guided by hint-based methods.
 
----
+---- 
 
 ## Overview
 
-The latest result is a proof that AIM + Commutativity implies nil3 24,
-which suffices to prove nilpotency class 3 because of previous Prover9
-results. This discovery was achieved using the Bigloop method. A Bigloop
+The latest result is a proof that AIM + Commutativity implies clause **nil3 24 (a(a(a(x,y,z),u,w),v5,v6) = 1)**,
+which suffices to prove nilpotency class 3 because of previous Prover9 results. 
+
+The result was proved by multiple coordinated Prover9 runs.
+
+ - **Proof duration:** 40 days
+ - **Proof found:** *September 16, 2025*
+
+The proof was then extracted from the multiple output files for posting.
+
+- **Total proof length:** 30,835 clauses
+- **Level:** 314
+- **Maximum clause weight:** 78
+- **Given clauses in proof:** 8,940
+
+## The Method
+
+This discovery was achieved using the Bigloop method. A Bigloop
 run consists of a number of P9loop runs running simultaneously, typically
 with different Prover9 search settings. Each P9loop run consists of
 a sequence of Prover9 runs, typically using different term orderings.
@@ -35,10 +50,7 @@ of clause derivation dependencies between the files.
 The proof posted on the <a href="www.cs.unm.edu/~veroff/AIM_REDONE">AIM
 project page<a> is the result of extracting a single proof from the
 Bigloop files and eliminating several lemmas that we typically use
-when searching for new results. The Bigloop result ran for 40 days and
-was found on Sep 16, 2025. The posted proof length is 30,835 and was
-found at level 314 of the search after 8940 given clause selections.
-The maximum weight of a clause in the proof is 78.
+when searching for new results.
 
 ---
 
