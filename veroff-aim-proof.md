@@ -23,9 +23,9 @@ which suffices to prove nilpotency class 3 because of previous Prover9 results.
 The result was proved by multiple coordinated Prover9 runs.
 
  - **Proof duration:** 40 days
- - **Proof found:** *September 16, 2025*
+ - **Proof established:** *September 16, 2025*
 
-The proof was then extracted from the multiple output files for posting.
+The proof was then extracted from the multiple output files and confirmed with a single Prover9 run for posting.
 
 - **Total proof length:** 30,835 clauses
 - **Level:** 314
