@@ -61,9 +61,10 @@ Bigloop found a proof of nil3 30, which was then confirmed with Prover9
 to prove nil3 24, completing a proof that AIM + Commutativity implies
 nilpotency class 3.
 
+The Bigloop run spanned  **40 days**, from *August 7, 2025* to *September 16, 2025* and generated 61 Prover9 output files.
+
 ### October 1, 2025 — Extraction  
 Reconstructing the full derivation across 61 files required multiple reruns with enhanced logging to expose hidden clause dependencies.  
-The total Bigloop computation spanned **40 days**, from *August 7, 2025* to *September 16, 2025*.
 
 ### October 6, 2025 — Complete Proof  
 All derivations were successfully extracted, giving a complete proof, though still distributed across several runs.
