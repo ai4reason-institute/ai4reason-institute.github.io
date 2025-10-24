@@ -63,10 +63,8 @@ nilpotency class 3.
 
 The Bigloop run spanned  **40 days**, from *August 7, 2025* to *September 16, 2025* and generated 61 Prover9 output files.
 
-### October 1, 2025 — Extraction  
+### October 6, 2025 — Complete Proof 
 Reconstructing the full derivation across 61 files required multiple reruns with enhanced logging to expose hidden clause dependencies.  
-
-### October 6, 2025 — Complete Proof  
 All derivations were successfully extracted, giving a complete proof, though still distributed across several runs.
 
 ### October 8, 2025 — Unified Run  
