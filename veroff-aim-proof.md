@@ -47,8 +47,8 @@ relied on the same set of input hints coming from previous Prover9 AIM
 proofs. This proof was established in 61 output files with a network
 of clause derivation dependencies between the files.
 
-The proof posted on the <a href="www.cs.unm.edu/~veroff/AIM_REDONE">AIM
-project page</a> is the result of extracting a single proof from the
+The proof posted on the [AIM project page](https://www.cs.unm.edu/~veroff/AIM_REDONE/)
+is the result of extracting a single proof from the
 Bigloop files and eliminating several lemmas that we typically use
 when searching for new results.
 
